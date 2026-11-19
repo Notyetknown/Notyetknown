@@ -1,139 +1,172 @@
-<h1 align="center">Rajkaran Sharma</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer &nbsp;|&nbsp; Full-Stack Developer</h3>
+<h1>Rajkaran Sharma</h1>
+<h3>Software Engineer &nbsp;|&nbsp; Full-Stack Developer</h3>
+
+<a href="https://rajkaran-dev.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rajkaran-sharma-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/rajkaran636/"><img src="https://img.shields.io/badge/LeetCode-37474F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="mailto:rajkaransharma254@gmail.com"><img src="https://img.shields.io/badge/Email-455A64?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Notyetknown&label=Profile%20views&color=1F3A5F&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<hr/>
+
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <a href="https://rajkaran-dev.onrender.com/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rajkaran-sharma-dev/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/rajkaran636/">LeetCode</a> &nbsp;·&nbsp;
-  <a href="mailto:rajkaransharma254@gmail.com">Email</a>
+Full-stack developer focused on building scalable web applications with React, Next.js, Node.js and MongoDB.
+Currently working on AI-powered products and strengthening my knowledge of cloud infrastructure and system design.
 </p>
 
-<br/>
+<h2 align="center">Current Focus</h2>
 
-I am a software engineer focused on full-stack web development with the MERN stack and Next.js. I build applications end to end, from responsive React interfaces to REST APIs with authentication and validation, and I have shipped AI-powered products including a text-to-image SaaS and an AI resume analyzer.
-
-I am currently building BuilderAI, an AI website builder, while strengthening my skills in cloud infrastructure (AWS, Docker, Kubernetes, Terraform), system design, and data structures and algorithms.
-
-<table>
+<table align="center">
   <tr>
-    <td><b>Focus</b></td>
-    <td>Full-stack development · AI-powered applications · Cloud and system design</td>
+    <td><b>Building</b></td>
+    <td>BuilderAI, an AI website builder. You describe a site, it gives you a live one.</td>
   </tr>
   <tr>
-    <td><b>Currently building</b></td>
-    <td>BuilderAI, an AI website builder</td>
+    <td><b>Learning</b></td>
+    <td>AWS, Docker, Kubernetes, Terraform, System Design and DSA</td>
   </tr>
   <tr>
-    <td><b>Currently learning</b></td>
-    <td>AWS, Docker, Kubernetes, Terraform, System Design, DSA</td>
+    <td><b>Open to collaboration</b></td>
+    <td>Full-stack, MERN and AI-powered projects</td>
   </tr>
   <tr>
-    <td><b>Open to</b></td>
-    <td>Collaboration on full-stack, MERN and AI-powered projects</td>
-  </tr>
-  <tr>
-    <td><b>Looking for input on</b></td>
-    <td>System design, cloud architecture and scalable backend systems</td>
+    <td><b>Seeking guidance on</b></td>
+    <td>System design, cloud architecture, scalable backends</td>
   </tr>
   <tr>
     <td><b>Ask me about</b></td>
     <td>React, Next.js, Node.js, Express, REST APIs, MongoDB, AWS</td>
   </tr>
-</table>
-
-## Skills
-
-<table>
   <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,java,cpp,py,html,css&theme=dark" alt="JavaScript, TypeScript, Java, C++, Python, HTML, CSS"/></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite,framer,figma&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap, Redux, Vite, Framer Motion, Figma"/></td>
-  </tr>
-  <tr>
-    <td><b>Backend and Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,redis,prisma,postman&theme=dark" alt="Node.js, Express, MongoDB, MySQL, SQLite, Redis, Prisma, Postman"/></td>
-  </tr>
-  <tr>
-    <td><b>Cloud and DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx,git,github,bash&theme=dark" alt="AWS, Docker, Kubernetes, Terraform, Linux, Nginx, Git, GitHub, Bash"/></td>
-  </tr>
-  <tr>
-    <td><b>Concepts</b></td>
-    <td>REST APIs · Microservices · System Design · LLM Fundamentals · LangChain · RAG · CI/CD · Data Structures and Algorithms</td>
+    <td><b>Contact</b></td>
+    <td><a href="mailto:rajkaransharma254@gmail.com">rajkaransharma254@gmail.com</a></td>
   </tr>
 </table>
 
-## Featured Projects
+<hr/>
 
-<table>
+<h2 align="center">Technical Skills</h2>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,py,html,css&theme=dark" alt="Languages"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite,framer,figma&theme=dark" alt="Frontend"/>
+
+**Backend and Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,redis,prisma,postman&theme=dark" alt="Backend and data"/>
+
+**Cloud and DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx,git,github,bash&theme=dark" alt="Cloud and DevOps"/>
+
+</div>
+
+<hr/>
+
+<h2 align="center">Projects</h2>
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://imagify-frontend-6t9r.onrender.com/">Imagify</a></h3>
-      Text-to-image SaaS. Users generate images from prompts and buy credits through Razorpay.<br/><br/>
-      <sub>React · Tailwind CSS · Node.js · Express · MongoDB</sub>
+      Text-to-image SaaS. Type a prompt, get an image, pay for credits through Razorpay.<br/><br/>
+      <sub><code>React</code> · <code>Tailwind</code> · <code>Node</code> · <code>Express</code> · <code>MongoDB</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://ai-resume-analyser453.netlify.app/">RESUMIND</a></h3>
-      AI resume analyzer that returns an ATS score and specific improvement recommendations, with no custom backend.<br/><br/>
-      <sub>React · TypeScript · Tailwind CSS · Puter.js · PDF.js</sub>
+      Upload a resume and get an ATS score with specific things to fix. Runs without a custom backend.<br/><br/>
+      <sub><code>React</code> · <code>TypeScript</code> · <code>Tailwind</code> · <code>Puter.js</code> · <code>PDF.js</code></sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3><a href="https://rajkaran-dev.onrender.com/">BuilderAI</a> <sup>in progress</sup></h3>
-      AI website builder. Describe a site in plain language and get a live, editable result.<br/><br/>
-      <sub>React · Node.js · Express · AI API</sub>
+      Describe a website in plain words and get a live, editable site back.<br/><br/>
+      <sub><code>React</code> · <code>Node</code> · <code>Express</code> · <code>AI API</code></sub>
     </td>
     <td valign="top">
       <h3><a href="https://aaroh-j1p2.onrender.com/">Aaroh: Together We Ascend</a></h3>
-      Community web platform focused on environmental health and sharing educational resources.<br/><br/>
-      <sub>React · Vite · Tailwind CSS · Framer Motion</sub>
+      A community site around environmental health and sharing educational resources.<br/><br/>
+      <sub><code>React</code> · <code>Vite</code> · <code>Tailwind</code> · <code>Framer Motion</code></sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3><a href="https://www.orrdr.com/">Orrdr</a></h3>
-      E-commerce front end with a storefront and an admin dashboard covering orders, products, vendors and charts.<br/><br/>
-      <sub>Next.js · TypeScript · React · Bootstrap</sub>
+      E-commerce front end with a storefront and an admin dashboard (orders, products, vendors, charts).<br/><br/>
+      <sub><code>Next.js</code> · <code>TypeScript</code> · <code>React</code> · <code>Bootstrap</code></sub>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/Notyetknown/lovable-clone-website-generator">Lovable.dev UI Clone</a></h3>
-      React and Vite recreation of the Lovable.dev landing page.<br/><br/>
-      <sub>React · Vite · CSS</sub>
+      <h3><a href="https://github.com/Notyetknown/lovable-clone-website-generator">Lovable.dev UI clone</a></h3>
+      A pixel-careful rebuild of the Lovable landing page to practice layout and component structure.<br/><br/>
+      <sub><code>React</code> · <code>Vite</code> · <code>CSS</code></sub>
     </td>
   </tr>
 </table>
 
-More work is available on my [portfolio](https://rajkaran-dev.onrender.com/).
+<p align="center"><a href="https://rajkaran-dev.onrender.com/"><img src="https://img.shields.io/badge/View_all_projects_on_my_portfolio-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View all projects on my portfolio"/></a></p>
 
-## Experience and Highlights
+<hr/>
 
-**Software Engineer Intern** · Agastyaan Technology, Mohali · Apr 2026 to Sep 2026
+<h2 align="center">Experience and Highlights</h2>
 
-- Built React interfaces and reusable components with Tailwind CSS
-- Developed REST APIs with authentication, request validation and structured error handling
-- Supported cloud, containerization and CI/CD workflows with AWS, Docker and Linux
-- Reduced page rendering time to 2 seconds on a company project
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Software Engineer Intern</h3>
+      <b>Agastyaan Technology</b>, Mohali · Apr to Sep 2026
+      <ul>
+        <li>Built React UIs and reusable components with Tailwind</li>
+        <li>Wrote REST APIs with auth, validation and proper error handling</li>
+        <li>Worked with AWS, Docker and Linux for CI/CD and deployments</li>
+        <li>Got page rendering time down to 2 seconds on a company project</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Zomathon: The Data Hackathon</h3>
+      Organised by Coding Ninjas with Eternal · 2026
+      <ul>
+        <li>Top 15 out of 200 teams in the transport track</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Zomathon: The Data Hackathon** · Organised by Coding Ninjas with Eternal · 2026
+<hr/>
 
-- Placed in the top 15 of 200 teams in the transport track
-
-## GitHub Stats
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Notyetknown&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=2f81f7&icon_color=2f81f7&text_color=e6edf3&border_radius=10&include_all_commits=true&count_private=true&disable_animations=true"/>
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notyetknown&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=2f81f7&text_color=e6edf3&border_radius=10&langs_count=8&disable_animations=true"/>
+  <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Notyetknown&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_radius=14&include_all_commits=true&count_private=true&disable_animations=true"/>
+  <img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notyetknown&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=14&langs_count=8&disable_animations=true"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Notyetknown&background=0d1117&border=30363d&stroke=30363d&ring=2f81f7&fire=2f81f7&currStreakNum=e6edf3&currStreakLabel=2f81f7&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&border_radius=10&disable_animations=true"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Notyetknown&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=8b949e&currStreakLabel=58a6ff&border_radius=14&disable_animations=true"/>
 </p>
 
-## Get in Touch
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Notyetknown&theme=flat&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+</p>
 
-I am open to collaboration on full-stack and AI-powered projects. You can reach me at [rajkaransharma254@gmail.com](mailto:rajkaransharma254@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rajkaran-sharma-dev/).
+<p align="center">
+  <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Notyetknown&bg_color=0d1117&color=58a6ff&line=8b949e&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&radius=14&custom_title=Contribution%20Graph"/>
+</p>
+
+<h2 align="center">LeetCode</h2>
+
+<p align="center">
+  <img width="75%" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/rajkaran636?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</p>
+
+<hr/>
+
+<p align="center"><i>Thank you for visiting my profile.</i></p>
