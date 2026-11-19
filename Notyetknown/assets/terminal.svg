@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" role="img" aria-label="Terminal window typing out a short intro about Rajkaran">
+<defs>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#00e5ff"/><stop offset="0.5" stop-color="#7c4dff"/><stop offset="1" stop-color="#ff4d9d"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="-2 0" to="0 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <clipPath id="c0"><rect x="32" y="80" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.0681;0.07285;0.07761;0.08236;0.08711;0.09186;0.09661;0.10136" values="0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;106.8"/>
+  </rect></clipPath>
+  <clipPath id="c1"><rect x="32" y="109" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.13114;0.1324;0.13367;0.13494;0.13621;0.13747;0.13874;0.14001;0.14127;0.14254;0.14381;0.14507;0.14634;0.14761;0.14888" values="0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;174.0"/>
+  </rect></clipPath>
+  <clipPath id="c2"><rect x="32" y="138" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.16503;0.16978;0.17453;0.17928;0.18404;0.18879;0.19354;0.19829;0.20304;0.20779;0.21254;0.21729;0.22205;0.2268;0.23155" values="0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;174.0"/>
+  </rect></clipPath>
+  <clipPath id="c3"><rect x="32" y="167" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.26132;0.26259;0.26386;0.26513;0.26639;0.26766;0.26893;0.27019;0.27146;0.27273;0.27399;0.27526;0.27653;0.2778;0.27906;0.28033;0.2816;0.28286;0.28413;0.2854;0.28666;0.28793;0.2892;0.29047;0.29173;0.293;0.29427;0.29553;0.2968;0.29807;0.29933;0.3006;0.30187;0.30314;0.3044;0.30567;0.30694;0.3082;0.30947;0.31074;0.31201;0.31327;0.31454;0.31581;0.31707;0.31834;0.31961;0.32087;0.32214;0.32341;0.32468;0.32594" values="0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2;172.8;182.4;192.0;201.6;211.2;220.8;230.4;240.0;249.6;259.2;268.8;278.4;288.0;297.6;307.2;316.8;326.4;336.0;345.6;355.2;364.8;374.4;384.0;393.6;403.2;412.8;422.4;432.0;441.6;451.2;460.8;470.4;480.0;489.6;529.2"/>
+  </rect></clipPath>
+  <clipPath id="c4"><rect x="32" y="196" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.33861;0.33988;0.34115;0.34241;0.34368;0.34495;0.34621;0.34748;0.34875;0.35002;0.35128;0.35255;0.35382;0.35508;0.35635;0.35762;0.35889;0.36015;0.36142;0.36269;0.36395;0.36522;0.36649;0.36775;0.36902;0.37029;0.37156;0.37282;0.37409;0.37536;0.37662;0.37789;0.37916;0.38042;0.38169;0.38296;0.38423;0.38549;0.38676;0.38803;0.38929;0.39056;0.39183;0.39309;0.39436;0.39563;0.3969;0.39816;0.39943;0.4007;0.40196;0.40323;0.4045;0.40576;0.40703;0.4083;0.40957;0.41083;0.4121;0.41337;0.41463" values="0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2;172.8;182.4;192.0;201.6;211.2;220.8;230.4;240.0;249.6;259.2;268.8;278.4;288.0;297.6;307.2;316.8;326.4;336.0;345.6;355.2;364.8;374.4;384.0;393.6;403.2;412.8;422.4;432.0;441.6;451.2;460.8;470.4;480.0;489.6;499.2;508.8;518.4;528.0;537.6;547.2;556.8;566.4;576.0;615.6"/>
+  </rect></clipPath>
+  <clipPath id="c5"><rect x="32" y="225" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.43079;0.43554;0.44029;0.44504;0.44979;0.45455;0.4593;0.46405;0.4688;0.47355" values="0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;126.0"/>
+  </rect></clipPath>
+  <clipPath id="c6"><rect x="32" y="254" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.50333;0.50459;0.50586;0.50713;0.50839;0.50966;0.51093;0.5122;0.51346;0.51473;0.516;0.51726;0.51853;0.5198;0.52106;0.52233;0.5236;0.52487;0.52613;0.5274;0.52867;0.52993;0.5312;0.53247;0.53373;0.535;0.53627;0.53754;0.5388;0.54007;0.54134;0.5426;0.54387;0.54514;0.5464;0.54767;0.54894;0.55021;0.55147;0.55274;0.55401;0.55527;0.55654;0.55781;0.55908;0.56034;0.56161;0.56288;0.56414;0.56541;0.56668;0.56794;0.56921;0.57048" values="0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2;172.8;182.4;192.0;201.6;211.2;220.8;230.4;240.0;249.6;259.2;268.8;278.4;288.0;297.6;307.2;316.8;326.4;336.0;345.6;355.2;364.8;374.4;384.0;393.6;403.2;412.8;422.4;432.0;441.6;451.2;460.8;470.4;480.0;489.6;499.2;508.8;548.4"/>
+  </rect></clipPath>
+  <clipPath id="c7"><rect x="32" y="283" width="0" height="28">
+    <animate attributeName="width" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.58663;0.59138" values="0;9.6;49.2"/>
+  </rect></clipPath>
+</defs>
+<rect x="1" y="1" width="878" height="338" rx="14" fill="#0d1117" stroke="url(#edge)" stroke-width="1.6"/>
+<path d="M1 15a14 14 0 0 1 14-14h850a14 14 0 0 1 14 14v26H1z" fill="#161b22"/>
+<circle cx="28" cy="26" r="6.5" fill="#ff5f56"/><circle cx="50" cy="26" r="6.5" fill="#ffbd2e"/><circle cx="72" cy="26" r="6.5" fill="#27c93f"/>
+<text x="440.0" y="31" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b949e">rajkaran@dev: ~/about</text>
+<line x1="1" y1="41" x2="879" y2="41" stroke="#21262d"/>
+  <text x="34" y="98" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c0)"><tspan fill="#39d353">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+  <text x="34" y="127" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#00e5ff">rajkaran-sharma</tspan></text>
+  <text x="34" y="156" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#39d353">$ </tspan><tspan fill="#e6edf3">cat about.txt</tspan></text>
+  <text x="34" y="185" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#9fb3c8">Full-stack dev who likes building things end to end.</tspan></text>
+  <text x="34" y="214" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#9fb3c8">MERN and Next.js most days, AI APIs when the idea needs them.</tspan></text>
+  <text x="34" y="243" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c5)"><tspan fill="#39d353">$ </tspan><tspan fill="#e6edf3">ls ~/now</tspan></text>
+  <text x="34" y="272" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c6)"><tspan fill="#00e5ff">BuilderAI/</tspan><tspan fill="#9fb3c8">   </tspan><tspan fill="#7c4dff">cloud-stuff/</tspan><tspan fill="#9fb3c8">   </tspan><tspan fill="#ff4d9d">system-design/</tspan><tspan fill="#9fb3c8">   </tspan><tspan fill="#ffa116">leetcode/</tspan></text>
+  <text x="34" y="301" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" xml:space="preserve" clip-path="url(#c7)"><tspan fill="#39d353">$ </tspan></text>
+  <rect x="55.2" y="286" width="9" height="19" fill="#00e5ff" opacity="0">
+    <animate attributeName="opacity" calcMode="discrete" dur="15.79s" repeatCount="indefinite" keyTimes="0;0.59138;0.62306;0.65474;0.68641;0.71809;0.74976;0.78144;0.81311;0.84479;0.87646;0.90814;0.93982" values="0;1;0;1;0;1;0;1;0;1;0;1;0"/>
+  </rect>
+</svg>
