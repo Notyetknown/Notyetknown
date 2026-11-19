@@ -1,7 +1,10 @@
 <div align="center">
 
-<h1>Rajkaran Sharma</h1>
-<h3>Software Engineer &nbsp;|&nbsp; Full-Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Rajkaran%20Sharma&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descColor=8b949e&descAlignY=68" alt="Rajkaran Sharma - Software Engineer, Full-Stack Developer" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=36&lines=Building+scalable+web+applications;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Exploring+AI-powered+products+and+cloud+architecture" alt="Building scalable web applications"/>
+
+<br/>
 
 <a href="https://rajkaran-dev.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/rajkaran-sharma-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,7 +19,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Full-stack developer focused on building scalable web applications with React, Next.js, Node.js and MongoDB.
+Full-stack developer focused on building scalable web applications with React, Next.js, Node.js and MongoDB.<br/>
 Currently working on AI-powered products and strengthening my knowledge of cloud infrastructure and system design.
 </p>
 
@@ -145,12 +148,12 @@ Currently working on AI-powered products and strengthening my knowledge of cloud
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Notyetknown&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_radius=14&include_all_commits=true&count_private=true&disable_animations=true"/>
-  <img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notyetknown&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=14&langs_count=8&disable_animations=true"/>
+  <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Notyetknown&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_radius=14&include_all_commits=true&count_private=true"/>
+  <img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notyetknown&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=14&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Notyetknown&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=8b949e&currStreakLabel=58a6ff&border_radius=14&disable_animations=true"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Notyetknown&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=8b949e&currStreakLabel=58a6ff&border_radius=14"/>
 </p>
 
 <p align="center">
@@ -167,6 +170,4 @@ Currently working on AI-powered products and strengthening my knowledge of cloud
   <img width="75%" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/rajkaran636?theme=dark&font=Fira%20Code&ext=heatmap"/>
 </p>
 
-<hr/>
-
-<p align="center"><i>Thank you for visiting my profile.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=footer&text=Thank%20you%20for%20visiting&fontSize=18&fontColor=8b949e&animation=fadeIn&fontAlignY=55" alt="Thank you for visiting" width="100%"/>
